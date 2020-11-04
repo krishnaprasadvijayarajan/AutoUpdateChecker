@@ -1,0 +1,10 @@
+C:\Users\krish\source\repos\AutoUpdateChecker\AutoUpdateChecker\bin\Debug\AutoUpdateChecker.exe.config
+C:\Users\krish\source\repos\AutoUpdateChecker\AutoUpdateChecker\bin\Debug\AutoUpdateChecker.exe
+C:\Users\krish\source\repos\AutoUpdateChecker\AutoUpdateChecker\bin\Debug\AutoUpdateChecker.pdb
+C:\Users\krish\source\repos\AutoUpdateChecker\AutoUpdateChecker\obj\Debug\AutoUpdateChecker.csprojAssemblyReference.cache
+C:\Users\krish\source\repos\AutoUpdateChecker\AutoUpdateChecker\obj\Debug\AutoUpdateChecker.csproj.CoreCompileInputs.cache
+C:\Users\krish\source\repos\AutoUpdateChecker\AutoUpdateChecker\obj\Debug\AutoUpdateChecker.exe
+C:\Users\krish\source\repos\AutoUpdateChecker\AutoUpdateChecker\obj\Debug\AutoUpdateChecker.pdb
+C:\Users\krish\source\repos\AutoUpdateChecker\AutoUpdateChecker\bin\Debug\log4net.dll
+C:\Users\krish\source\repos\AutoUpdateChecker\AutoUpdateChecker\bin\Debug\log4net.xml
+C:\Users\krish\source\repos\AutoUpdateChecker\AutoUpdateChecker\obj\Debug\AutoUpdateChecker.csproj.CopyComplete

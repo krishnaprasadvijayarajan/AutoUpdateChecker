@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoUpdateChecker", "AutoUpdateChecker\AutoUpdateChecker.csproj", "{B1385CA0-B415-44CF-9A6E-78E9083CF510}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1385CA0-B415-44CF-9A6E-78E9083CF510}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1385CA0-B415-44CF-9A6E-78E9083CF510}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1385CA0-B415-44CF-9A6E-78E9083CF510}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1385CA0-B415-44CF-9A6E-78E9083CF510}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B30D1278-DFD8-4767-BD63-372D617E54A9}
+	EndGlobalSection
+EndGlobal
